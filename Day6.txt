@@ -1,0 +1,8 @@
+Operator
+1.Arithmetic Operator (+, - , * , / , // , %)
+2. Assignment Operator(= , += , -=, *= , /= ,//= , %= , **=, &= , |= , ^= , >>=, <<=)
+3. Comparison Operator(>, < , >= , <= , == , != )
+4. Logical Operator (and, or , not)
+5. Identity Operator (is , is not)
+6. Membership Operator (in , not in)
+7. Bitwise Operator (&(AND) , |(OR) , ^(XOR) , ~(NOT) , <<(Zero fill left shift) , >> (Signed right shift))

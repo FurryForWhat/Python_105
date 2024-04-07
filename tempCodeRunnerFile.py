@@ -1,1 +1,1 @@
-
+print(my_string + some)
