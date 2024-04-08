@@ -1,0 +1,1 @@
+condition or expression = while loop, if else တွေမှာ နောက်မှာပါတဲ့ အခြေအနေတစ်ခုကို ခေါ်သည်။
