@@ -1,0 +1,16 @@
+Data Type
+int 
+float
+string
+bool
+complex
+
+Sequence Data Type
+List = ["Hi","Hello",123,True]
+Tuple = ("Hi","Hello",123,True)
+Set = ()
+Dict = 
+
+fast_food = ['Humberger','Fried Potato','Noodle']
+
+fast_food.append('something')
